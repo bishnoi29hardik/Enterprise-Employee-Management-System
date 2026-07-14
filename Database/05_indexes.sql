@@ -18,7 +18,7 @@ Features:
 ===========================================================
 */
 
-USE enterpriseemployeedb;
+USE enterprise_employee_management;
 
 -- =====================================================
 -- Employee Indexes
