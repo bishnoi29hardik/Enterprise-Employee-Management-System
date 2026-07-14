@@ -12,7 +12,7 @@ Views for reporting and analytics.
 ===========================================================
 */
 
-USE enterpriseemployeedb;
+USE enterprise_employee_management;
 
 -- =====================================================
 -- View 1 : Employee Basic Details
